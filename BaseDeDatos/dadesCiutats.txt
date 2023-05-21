@@ -1,0 +1,11 @@
+idciutat:nom:comarca:habitants:altitud:codipostal:festes:
+1:Xàtiva:La Costera:30000:115:46800:agost:
+2:Barxeta:La Costera:1576:93:46667:juliol:
+3:Benigànim:La Vall d'Albaida:5718:120:46830:agost:
+4:Petrer:Vinalopó Mitjà:33978:698:03104:maig:
+5:La Vila Joiosoa:La Marina Baixa:34828:27:03570:juliol:
+6:Alcoi:L'Alcoià:58960:561:03801:abril:
+7:Bétera:El Camp de Túria:26289:125:46117:agost:
+8:Xilxes:La Plana Baixa:2846:7:12592:setembre:
+9:Orpesa:La Plana Alta:10184:33:12594:juliol:
+10:Cullera:La Ribera Baixa:22937:2:46400:abril:
