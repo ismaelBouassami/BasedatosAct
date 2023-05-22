@@ -280,7 +280,7 @@ public class act1 {
 						
 						  prepararConsulta.executeUpdate();
 						
-						  String selectTextoString ="SELECT * FROM alumne WHERE nom='"+nombre+"'";
+						  String selectTextoString ="SELECT * FROM alumne";
 						  
 						  PreparedStatement juan = c.prepareStatement(selectTextoString);
 						  
